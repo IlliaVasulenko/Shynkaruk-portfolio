@@ -98,7 +98,7 @@ export default function Navbar() {
 
         <div className="flex items-center gap-4">
           <a
-            href="https://github.com/Shynkaruk-new-project-test-www"
+            href="https://github.com/Shynkaruk-new-project-test"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
