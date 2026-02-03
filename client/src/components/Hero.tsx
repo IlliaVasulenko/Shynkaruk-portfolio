@@ -23,7 +23,7 @@ export default function Hero() {
 
             <h1 className="text-5xl md:text-8xl font-bold leading-tight mb-6 tracking-tight">
               <span className="block text-foreground">My name is</span>
-              <span className="block text-primary">Shynkaruk Vitalii</span>
+              <span className="block text-primary">Vitalii Shynkaruk</span>
             </h1>
 
             <p className="text-xl md:text-2xl text-muted-foreground font-medium mb-12">

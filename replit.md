@@ -1,8 +1,8 @@
-# Shynkaruk Vitalii Portfolio
+# Vitalii Shynkaruk Portfolio
 
 ## Overview
 
-This is a personal portfolio website for Shynkaruk Vitalii, a Senior Senior Full Stack & AI Engineer  with 10+ years of experience. The application showcases professional experience, projects, skills, and provides a contact form. It's built as a full-stack application with a React frontend and Express backend, designed for deployment on Replit.
+This is a personal portfolio website for Vitalii Shynkaruk, a Senior Senior Full Stack & AI Engineer  with 10+ years of experience. The application showcases professional experience, projects, skills, and provides a contact form. It's built as a full-stack application with a React frontend and Express backend, designed for deployment on Replit.
 
 ## User Preferences
 
